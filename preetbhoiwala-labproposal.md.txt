@@ -1,0 +1,42 @@
+# Proposal
+
+## What will (likely) be the title of your project?
+"GOAT"
+TODO
+
+## In just a sentence or two, summarize your project. (E.g., "A website that lets you buy and sell stocks.")
+Make a game that jumps over obstacles but in order to jump you have to YELL.And the thing jumping can be like a goat or something.
+TODO
+
+## In a paragraph or more, detail your project. What will your software do? What features will it have? How will it be executed?
+Basically we wanted it to be like a game similar to a game that hops over obstacles as the screen scrolls. The main player is suppsoed to be a goat, hopefully. 
+TODOa
+
+## If planning to combine 1051's final project with another course's final project, with which other course? And which aspect(s) of your proposed project would relate to 1051, and which aspect(s) would relate to the other course?
+
+TODO, if applicable
+
+## If planning to collaborate with 1 or 2 classmates for the final project, list their names, email addresses, and the names of their assigned TAs below.
+Cameron Jacobs; c.jacobs@temple.edu; Chong Li
+Suraiya Shoyab, my TA is Tamara Katic, and my email is tul60739@temple.edu
+
+TODO, if applicable
+
+
+## In the world of software, most everything takes longer to implement than you expect. And so it's not uncommon to accomplish less in a fixed amount of time than you hope.
+
+### In a sentence (or list of features), define a GOOD outcome for your final project. I.e., what WILL you accomplish no matter what?
+We will cover all aspects of the game even no matter how much times it takes. Such as writing the code so that you have to yell to jump. It sounds complicated but we will try our best.
+TODO
+
+### In a sentence (or list of features), define a BETTER outcome for your final project. I.e., what do you THINK you can accomplish before the final project's deadline?
+Adding music to the game but not completely positive we will be able to do that in the given time.
+TODO
+
+### In a sentence (or list of features), define a BEST outcome for your final project. I.e., what do you HOPE to accomplish before the final project's deadline?
+A game with several obstacles and has a goat yell to jump over them. Similar to mario but less complicated.
+TODO
+
+## In a paragraph or more, outline your next steps. What new skills will you need to acquire? What topics will you need to research? If working with one of two classmates, who will do what?
+We will use code similar to mario on top of using some research and we will use love/lua. Features will include keyboard interaction, music, graphics. Stuff like that. Similar to mario.
+TODO
